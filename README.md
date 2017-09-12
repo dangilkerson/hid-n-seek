@@ -36,3 +36,8 @@ network={
 ```
 
 3. wpa_cli reconfigure
+
+## Configure keybord emulator
+Reference https://www.aidanwoods.com/blog/building-a-wifi-enabled-usb-rubber-ducky/
+
+1. 
